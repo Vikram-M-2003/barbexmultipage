@@ -1,0 +1,436 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #191D1F;
+    font-family: 'Arima', system-ui;
+}
+
+.navbar-nav {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.navbar-nav :hover {
+    color: #a9772c !important;
+}
+
+.herobg img {
+    width: 100%;
+    opacity: 15%;
+    height: 700px;
+
+}
+
+#heroimg {
+    top: 375px;
+    left: 670px;
+    max-width: 100%;
+}
+
+.navbar {
+    border-bottom: solid white 2px;
+}
+
+#herocontent h1 {
+    font-size: 80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#herocontent button {
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    width: 150px;
+    padding: 10px 15px 10px 15px;
+    background-color: #a9772c;
+    color: white;
+}
+
+#herocontent {
+    margin-top: 130px;
+    margin-left: 50px;
+}
+
+.sectionone {
+    margin-top: 100px;
+}
+
+.sectionone h2,
+.sectionone h4 {
+    text-align: center;
+}
+
+.sectionone h2 {
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+.card-img-top {
+    width: 60px;
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+#service {
+    margin-top: 70px;
+}
+
+#service a {
+    background-color: #a9772c !important;
+}
+
+#service h5 {
+    font-size: 30px;
+}
+
+.sectiontwo {
+    width: 100%;
+    margin-top: 200px;
+}
+
+.aboutimg {
+    width: 60%;
+    margin-left: 70px;
+}
+
+.aboutcontent {
+    background-color: black;
+    width: 35%;
+    height: 550px;
+    padding-left: 40px;
+    margin-left: 900px;
+    margin-top: -650px;
+}
+
+.aboutcontent h4 {
+    margin-top: 110px;
+}
+
+.aboutcontent h2 {
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.aboutcontent p {
+    margin-top: 20px;
+}
+
+.sectiontwo button {
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    width: 150px;
+    padding: 10px 15px 10px 15px;
+    background-color: #a9772c;
+    color: white;
+}
+
+.sectionthree {
+    margin-top: 100px;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.sectionthreeimg {
+    width: 60px;
+    height: 60px;
+}
+
+.sectionthreeimgg {
+    border: solid #a9772c 1px;
+    padding: 20px;
+}
+
+.sectionthree h2 {
+    font-size: 50px;
+    margin-top: 5px;
+}
+
+.sectionfour {
+    margin-top: 100px;
+}
+
+.sectionfour h2,
+.sectionfour h4 {
+    text-align: center;
+}
+
+.sectionfour h2 {
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+.sectionone h4,
+.sectiontwo h4,
+.sectionfour h4,
+#herocontent h4 {
+    color: #a9772c;
+}
+
+.gone {
+    width: 306px;
+    height: 450px;
+    object-fit: cover;
+}
+
+.gtwo {
+    width: 636px;
+    height: 450px;
+    object-fit: cover;
+}
+
+#galleryone {
+    margin-top: 70px;
+}
+
+#gallerytwo {
+    margin-top: 30px;
+}
+
+.sectionfour button {
+    margin-top: 40px;
+    border: none;
+    outline: none;
+    width: 150px;
+    padding: 10px 15px 10px 15px;
+    background-color: #a9772c;
+    color: white;
+}
+
+.button {
+    text-align: center;
+}
+
+.sfivebg {
+    width: 100%;
+    margin-top: 100px;
+}
+
+.sectionsix h4 {
+    color: #a9772c;
+}
+
+#faq {
+    width: 100%;
+}
+
+.faqcontent {
+    width: 35%;
+}
+
+.faqquestion {
+    width: 60%;
+    margin-top: 40px;
+}
+
+.sectionsix,
+.sectionseven {
+    margin-top: 100px;
+}
+
+.faqcontent h2 {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form {
+    margin-top: 100px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.form h2 {
+    font-size: 50px;
+    margin-top: 2px;
+}
+
+form input {
+    width: 400px;
+    padding: 25px 0px 25px 20px;
+    border: none;
+    outline: #a9772c 1px;
+}
+
+form button {
+    padding: 25px;
+    background-color: #a9772c;
+    border: none;
+    outline: none;
+}
+
+.footerlogo {
+    margin-bottom: 40px;
+}
+
+.footerone {
+    border-bottom: solid white 1px;
+}
+
+.servicefoot h3,
+.contactfoot h3,
+.followus h3 {
+    margin-bottom: 40px;
+}
+
+.servicefoot ul li {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.servicefoot ul li a,
+.contactfoot a {
+    text-decoration: none;
+}
+
+.contactfoot svg {
+    color: #a9772c !important;
+}
+
+.footertwo {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.servicefoot ul li a:hover {
+    color: #a9772c !important;
+}
+
+.contactfoot a:hover {
+    color: #a9772c !important;
+}
+
+.followus a:hover {
+    color: #a9772c !important;
+}
+
+.copyright {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.copyright span {
+    color: #a9772c;
+}
+
+#active {
+    color: #a9772c !important;
+}
+
+@media screen and (max-width:500px) {
+
+    .heroimgg {
+        display: none;
+    }
+
+    #herocontent {
+        margin: 90px 30px 0px 30px;
+    }
+
+    #herocontent h1 {
+        font-size: 50px;
+    }
+
+    .sectiontwo {
+        margin-top: 40px;
+        max-width: 100%;
+    }
+
+    .sectiontwo img {
+        width: 400px;
+    }
+
+    .aboutimg {
+        margin: 20px;
+    }
+
+    .aboutcontent {
+        display: none;
+    }
+
+    .sectionthree {
+        margin-top: 40px;
+        padding-left: 50px;
+    }
+
+    .sectionfour h2 {
+        font-size: 40px;
+    }
+
+    .sectionfour img {
+        max-width: 100%;
+        height: 200px;
+    }
+
+    #fone {
+        display: block !important;
+        text-align: center;
+    }
+
+    #fone input {
+        width: 200px;
+    }
+
+    .contactfoot,
+    .followus,
+    .company {
+        padding-left: 40px;
+        margin-top: 20px;
+    }
+
+    .faqcontent h2 {
+        font-size: 30px;
+    }
+
+    .faqcontent p {
+        font-size: 10px;
+    }
+}
+
+
+@media (min-width:500px) and (max-width:1024px) {
+
+    .heroimgg {
+        display: none;
+    }
+
+    .navbar-nav {
+        gap: 10px !important;
+    }
+
+    .sectiontwo img {
+        max-width: 100%;
+    }
+
+    .sectionfour img {
+        max-width: 100%;
+    }
+
+    .aboutcontent h2 {
+        font-size: 40px;
+    }
+
+    .aboutcontent h4 {
+        margin-top: 50px;
+    }
+
+    .aboutcontent {
+        margin-left: 600px;
+        height: 430px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-top: -500px;
+    }
+
+    #fone input {
+        width: 250px;
+    }
+}
